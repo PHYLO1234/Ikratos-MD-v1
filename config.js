@@ -54,21 +54,21 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '254776331490' //Nomor Bot
-global.nomorown = '254776331490' //Nomor Owner
+global.nomorown = '254736958034' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
 global.nameown = 'Khalid niccur' // Nama Owner
 
 /*============== CHATGPT ==============*/
-global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 global.org = 'org-YDZkm2hUdzOVRtsL1zuKp9LY'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['254776331490', 'khalid niccur🎐', true] //Replace your number with your name
+  ['254736958034', 'khalid niccur🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['254776331490','254776331490','254776331490'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['254736958034','254736958034','254114098508'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -103,9 +103,9 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Khalid-tech- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254776331490`
+global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254736958034`
 global.fig = `Follow me on instagram.com/khalid_niccur`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -137,7 +137,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+254776331490'
+global.phn = '+254736958034'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
