@@ -54,7 +54,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '254776331490' //Nomor Bot
-global.nomorown = '254736958034' //Nomor Owner
+global.nomorown = '254762925335' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
 global.nameown = 'Khalid niccur' // Nama Owner
 
@@ -64,11 +64,11 @@ global.org = 'org-YDZkm2hUdzOVRtsL1zuKp9LY'   // Get you Org-Key from 'https://p
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['254736958034', 'khalid niccur🎐', true] //Replace your number with your name
+  ['254762925335', 'JOVIAL', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['254736958034','254736958034','254114098508'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['254762925335','254762925335','254114098508'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
